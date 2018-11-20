@@ -12,6 +12,7 @@ module.exports = {
 	},
 	module: {
 
+
 	},
 	plugins: [],
 	optimization: {
